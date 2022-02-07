@@ -5,9 +5,9 @@ A Solidity technical interview question involving Sudoku challenges
 `npm install`
 
 
-## Interview Questions:
-- What improvements would you make to improve security?
-- What improvements would you make to improve gas usage?
-- What tests would you write for these contracts?
+## Instructions:
+- Please find vulnerabilities and implement security improvements. If any are too time consuming, feel free to just describe the fix in a comment.
+- Please list or implement gas optimizations.
+- Please describe or implement your preferred test suite.
 
-- Bonus (not required): Can you implement the `SudokuChallenge.validate` pure function?
+- Bonus (not required): Implement the `SudokuChallenge.validate` pure function
